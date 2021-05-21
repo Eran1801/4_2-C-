@@ -1,6 +1,8 @@
 <div dir="rtl" lang="he">
-
-# פאנדמיק - שלב ב
+  
+  <p align="center">  
+  <img height=250, w src="https://www.nintendoenthusiast.com/wp-content/uploads/2019/07/pandemicswitch.jpg"> 
+  </p>
 
 "כדי להתאמן בהתמודדות עם מגפות עולמיות, אנחנו צריכים משחקים"
 [(ביל גייטס, 2015)](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready#t-389693).
