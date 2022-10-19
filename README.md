@@ -1,7 +1,7 @@
 <div dir="rtl" lang="he">
   
   <p align="center">  
-  <img height=250, w src="https://www.nintendoenthusiast.com/wp-content/uploads/2019/07/pandemicswitch.jpg"> 
+  <img height=250, w src="https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__opengraph/img/2t9csy41BOj4XfPzoFjWRh0tieE=/fit-in/1200x630/filters:strip_icc()/pic1534148.jpg"> 
   </p>
 
 "כדי להתאמן בהתמודדות עם מגפות עולמיות, אנחנו צריכים משחקים"
